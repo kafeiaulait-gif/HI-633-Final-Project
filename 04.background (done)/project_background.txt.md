@@ -29,7 +29,7 @@
 * Rate of Progress: A metaphorical or literal steady rhythm of movement (e.g., "a leisurely gait").
 * Pronunciation: Pronounced /ɡeɪt/ (rhymes with "mate", not "gate").
 
-<br><br>
+<br>
 
 <ins>Key Aspects of Gait</ins>
 
@@ -42,7 +42,7 @@ Gait Cycle: A single walking cycle is split into two main parts according to the
 	
 _Abnormal Gait: An altered or unusual walking pattern (such as limping, shuffling, or waddling) often points to underlying pain, joint arthritis, muscle weakness, or a neurological condition._
 
-<br><br>
+<br>
 
 <ins>Common Types of Gait</ins>
 
@@ -56,7 +56,7 @@ https://www.hingehealth.com/resources/glossary/gait/
 <br><br>
 
 
----
+
 ***Gait Cycles vs Steps***
 
 ---
@@ -67,23 +67,24 @@ One gait cycle, or stride, is defined as two consecutive heel strikes of the sam
 	* Gait Cycle: The complete movement sequence from the time one foot makes contact with the ground until that same foot makes contact with the ground again (equal to one full stride).
 	* Step: Half of a gait cycle, measured from the initial contact of one foot to the initial contact of the opposite foot.
 
-	*Key Differences*
+*Key Differences*
 
-		* Duration/Coverage: One complete gait cycle contains two steps (one left step and one right step).
-		* Reference Foot: A gait cycle tracks a single limb from start to finish (e.g., right heel strike to right heel strike), whereas a step alternates between two different limbs (e.g., left heel strike to right heel strike).
+	* Duration/Coverage: One complete gait cycle contains two steps (one left step and one right step).
+	* Reference Foot: A gait cycle tracks a single limb from start to finish (e.g., right heel strike to right heel strike), whereas a step alternates between two different limbs (e.g., left heel strike to right heel strike).
 
 <br><br>
 
 
----
+
 ***Gait changes and Understanding The Cycles***
 
+---
 This numbering system represents the normalized timeline of a single stride, tracking a leg's movement from the exact moment one heel hits the ground until that same heel hits the ground again.
 Instead of measuring walking in seconds, researchers and clinicians use a 0% to 100% scale to compare data easily, regardless of how fast or slow a person is moving.
 
 <ins>Key Milestones in the 0–100% Cycle</ins>
 
-The cycle is broken down into specific events for the tracked leg:
+> The cycle is broken down into specific events for the tracked leg:
 
 * 0% (Initial Contact): The heel strikes the ground. This marks the absolute beginning of the cycle and the start of the Stance Phase.
 * 0% to 10% (Loading Response): The foot flattens, and the leg absorbs the impact of body weight.
