@@ -1,0 +1,29 @@
+Here are three distinct directions for a paper, ranging from standard statistical analysis to predictive machine learning.
+
+The Multivariate Gait Data from the UCI Repository paired with the methodology from the paper "Smoothing spline analysis of variance models: A new tool for the analysis of cyclic biomechanical data" by Helwig & Shorter (2016) provides an excellent foundation for a project.
+
+
+
+Paper Topics & Research Questions
+
+
+Option 1: The Impact of Unilateral Bracing on Bilateral Symmetry (Recommended)
+
+• Core Concept: When a knee or ankle is braced, how does that restriction propagate through the body? Does bracing the right knee cause a compensatory alteration in the unbraced left hip angle?
+• Research Question: How do knee and ankle braces affect the dynamic symmetry and kinematic coupling between ipsilateral (same-side) and contralateral (opposite-side) lower limb joints across a complete gait cycle?
+• Analysis Focus: Use the SSANOVA framework to extract the Contrast Cycle (CC) between the unbraced baseline and braced conditions. Specifically evaluate whether the "regions of difference" manifest in unbraced joints (compensatory mechanisms).
+
+Option 2: Kinematic Adaptation Over Consecutive Cycles
+
+• Core Concept: The dataset captures 10 consecutive gait cycles. Subjects might walk differently during their first braced cycle compared to their tenth as they learn to adjust to the brace constraint.
+• Research Question: Do healthy individuals demonstrate immediate or progressive kinematic adaptation when introduced to lower-limb mechanical restrictions?
+• Analysis Focus: Track the sequence of the 10 gait cycles. You can model "Gait Cycle Number" (1 to 10) as a continuous interacting covariate in your spline model to determine if the Contrast Cycle curve shifts or flattens over time.
+
+Option 3: Classification of Joint Restrictions Using Functional Data Features
+
+• Core Concept: Instead of just examining curves, build a predictive model. If you are provided with raw time-series joint angles, can a machine learning model correctly classify if a person is restricted by a knee brace, an ankle brace, or completely unbraced?
+• Research Question: Can functional principal component scores derived from joint angle time-series reliably classify specific joint restrictions in healthy populations?
+• Analysis Focus: Run Functional Principal Component Analysis (FPCA) or fit smoothing splines to reduce the time-series down to key basis function coefficients. Use those coefficients as inputs into a standard classifier (e.g., Random Forest or Support Vector Machine).
+
+
+

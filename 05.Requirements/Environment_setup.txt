@@ -1,0 +1,9 @@
+ pip install
+
+python version
+
+
+
+virtual env setup
+
+
