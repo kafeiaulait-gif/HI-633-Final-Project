@@ -94,7 +94,7 @@ Instead of measuring walking in seconds, researchers and clinicians use a 0% to 
 * 60% to 100% (Swing Phase): The foot leaves the ground, swings forward through the air, and prepares for the next step.
 * 100% (Next Initial Contact): The same heel strikes the ground again, completing the cycle and instantly starting the next one at 0%.
 
-<br<
+<br>
 
 ![Gait cycles in a stride.](/images/F000146f014-002-9781455709779.jpg "Gait cycles in a stride.")
 
