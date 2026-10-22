@@ -96,7 +96,7 @@ Instead of measuring walking in seconds, researchers and clinicians use a 0% to 
 
 <br<
 
-![Gait cycles in a stride.](image/F000146f014-002-9781455709779.jpg "Gait cycles in a stride.")
+![Gait cycles in a stride.](/images/F000146f014-002-9781455709779.jpg "Gait cycles in a stride.")
 
 ---
 
