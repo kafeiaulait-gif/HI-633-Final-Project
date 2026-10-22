@@ -1,0 +1,6 @@
+
+Regarding the final project, yes, you need to cite your dataset source, and APA style is perfectly fine.
+
+Helwig, N. & Hsiao-Wecksler, E. (2016). Multivariate Gait Data [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5861T.
+
+
