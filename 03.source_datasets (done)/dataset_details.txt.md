@@ -40,19 +40,19 @@ This is a fantastic, clean dataset for a biomechanics, data science, or machine 
 
 
 ---
-The file has separate records, each record indicating an observation for a patient or subjects as the person completes an entire gait cycle.
+The file contains individual records, with each representing a patient's complete gait cycle observation.
 
-There would be a 1:M relation between subjects and gait cycles.  
+The file contains records where there is a 1:M relation between subjects and gait cycles.  
 
-The purpose of the file is to record human locomotion for 10 subjects with separate replications of a gait stride.
+The purpose of the file is to record human locomotion for 10 subjects with separate replications of a gait strides and observer difference in mobility patterns while wearing a leg brace.
 
-Data in the file consists of different data types including:
+The dataset incorporates a variety of data types, such as:
 
 * Categorical
 * Integer
 * Continuous
 
-After analyzing the file, new fields will be included for the categorical descriptions, as well.
+Following the file analysis, new fields will be added to accommodate categorical descriptions.
 
 <br><br>
 

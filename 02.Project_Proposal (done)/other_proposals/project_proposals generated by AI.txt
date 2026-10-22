@@ -5,7 +5,7 @@ The Multivariate Gait Data from the UCI Repository paired with the methodology f
 
 
 Paper Topics & Research Questions
-
+---------------------------------
 
 Option 1: The Impact of Unilateral Bracing on Bilateral Symmetry (Recommended)
 
@@ -13,11 +13,13 @@ Option 1: The Impact of Unilateral Bracing on Bilateral Symmetry (Recommended)
 • Research Question: How do knee and ankle braces affect the dynamic symmetry and kinematic coupling between ipsilateral (same-side) and contralateral (opposite-side) lower limb joints across a complete gait cycle?
 • Analysis Focus: Use the SSANOVA framework to extract the Contrast Cycle (CC) between the unbraced baseline and braced conditions. Specifically evaluate whether the "regions of difference" manifest in unbraced joints (compensatory mechanisms).
 
+
 Option 2: Kinematic Adaptation Over Consecutive Cycles
 
 • Core Concept: The dataset captures 10 consecutive gait cycles. Subjects might walk differently during their first braced cycle compared to their tenth as they learn to adjust to the brace constraint.
 • Research Question: Do healthy individuals demonstrate immediate or progressive kinematic adaptation when introduced to lower-limb mechanical restrictions?
 • Analysis Focus: Track the sequence of the 10 gait cycles. You can model "Gait Cycle Number" (1 to 10) as a continuous interacting covariate in your spline model to determine if the Contrast Cycle curve shifts or flattens over time.
+
 
 Option 3: Classification of Joint Restrictions Using Functional Data Features
 
